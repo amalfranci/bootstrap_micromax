@@ -1,0 +1,13 @@
+.navbar-nav i{
+    margin-top: 27px;
+    
+    
+  
+}
+.navbar-nav{
+    cursor: pointer;
+}
+.carousel-inner img {
+
+    max-height: 900px;
+}
